@@ -9,9 +9,9 @@ export default function Router() {
   return (
     <>
       <Switch>
-        <Route path='/' component={Home} />
-        <Route path='/question/:question' component={Question} />
-        <Route path='/fruit' component={Fruit} />
+        <Route path='/expert-system/' component={Home} />
+        <Route path='/expert-system/question/:question' component={Question} />
+        <Route path='/expert-system/fruit' component={Fruit} />
         <Route component={Error404} />
       </Switch>
     </>

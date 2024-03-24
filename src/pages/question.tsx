@@ -28,16 +28,16 @@ export default function Question() {
   }
 
   const handleGoPrev = () => {
-    setLocation(`/question/${question.id - 1}`)
+    setLocation(`/expert-system/question/${question.id - 1}`)
   }
 
   const handleGoNext = () => {
-    setLocation(`/question/${question.id + 1}`)
+    setLocation(`/expert-system/question/${question.id + 1}`)
   }
 
   const handleDetermineFruit = () => {
     determineFruit()
-    setLocation('/fruit')
+    setLocation('/expert-system/fruit')
   }
 
   const thereIsAnOptionSelected = () => {

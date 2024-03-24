@@ -17,7 +17,7 @@ export default function Home() {
 
         <animated.button
           className='bg-indigo-700 text-white py-2 px-4 rounded shadow-md hover:scale-105 transition hover:skew-x-12 font-semibold'
-          onClick={() => setLocation('/question/1')}
+          onClick={() => setLocation('/expert-system/question/1')}
         >
           Comenzar ahora!
         </animated.button>

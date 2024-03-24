@@ -19,7 +19,7 @@ export default function Fruit() {
 
   const handleRestart = () => {
     restartFruit()
-    setLocation('/')
+    setLocation('/expert-system/')
   }
 
   return (
