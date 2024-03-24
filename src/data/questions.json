@@ -1,0 +1,141 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿De qué color es la fruta en la que estás pensando?",
+      "options": [
+        "Rosa",
+        "Verde",
+        "Cafe",
+        "Purpura",
+        "Negra",
+        "Roja",
+        "Amarilla",
+        "Naranja",
+        "Dorada",
+        "Azul",
+        "Blanca"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "¿Cómo describirías la textura de la fruta?",
+      "options": [
+        "Almidonada",
+        "Cremosa",
+        "Crujiente",
+        "Dura",
+        "Escamosa",
+        "Fibrosa",
+        "Firme",
+        "Gelatinoso",
+        "Jugosa",
+        "Pegajosa",
+        "Rugosa",
+        "Suave"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es el sabor principal de la fruta?",
+      "options": [
+        "Agria",
+        "Agridulce",
+        "Amargo",
+        "Crujiente",
+        "Dulce",
+        "Picante",
+        "Suave",
+        "Tropical"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "¿Qué tamaño tiene la fruta?",
+      "options": [
+        "Grande",
+        "Mediana",
+        "Pequeña"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es la forma de la fruta?",
+      "options": [
+        "Alargada",
+        "Cilíndrica",
+        "Cónica",
+        "En forma de corazón",
+        "En forma de estrella",
+        "Oblonga",
+        "Ovalada",
+        "Redonda"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "¿Cómo es la cascara de la fruta?",
+      "options": [
+        "Abultada",
+        "Arrugada",
+        "Delgada",
+        "Dura",
+        "Escamosa",
+        "Espinosa",
+        "Gruesa",
+        "Lisa",
+        "Peluda",
+        "Puntiaguda",
+        "Rugosa",
+        "Áspera"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es el tamaño de sus semillas?",
+      "options": [
+        "Grandes",
+        "Medianas",
+        "Pequeñas"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "¿Sabes de qué región es originaria esta fruta?",
+      "options": [
+        "Africa",
+        "Asia",
+        "Centro America",
+        "Europa",
+        "Norte America",
+        "Oriente Medio",
+        "Sudamérica",
+        "Varias regiones del mundo",
+        "No estoy seguro"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "¿Puedes describir su aroma?",
+      "options": [
+        "Agria",
+        "Agridulce",
+        "Ardiente",
+        "Aromática",
+        "Chocolatoso",
+        "Cítrico",
+        "Dulce",
+        "Floral",
+        "Fragante",
+        "Fresca",
+        "Neutral",
+        "Picante",
+        "Refrescante",
+        "Sabrosa",
+        "Suave",
+        "Tropical",
+        "No estoy seguro"
+      ]
+    }
+  ]
+}
